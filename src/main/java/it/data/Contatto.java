@@ -1,5 +1,5 @@
 package it.data;
-//commento giyhub
+//gitHub
 import java.io.Serializable;
 import java.util.List;
 
